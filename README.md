@@ -40,7 +40,7 @@ Once the project is all set go to url: https://localhost:8000/ or https://http:/
 
 
 ## Demo
-[Demo video](https://user-images.githubusercontent.com/42323978/205367924-85d34669-52e9-4811-9f36-29c29555ffad.webm)
+[demo.webm](https://user-images.githubusercontent.com/42323978/205368650-0c1deeec-74ee-40cb-bb3c-24c45716cdae.webm)
 
 
 ## Author
